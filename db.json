@@ -1,0 +1,95 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "On the beach",
+      "author": "Lorem"
+    },
+    {
+      "id": 2,
+      "title": "What is this?",
+      "author": "Ipsum"
+    },
+    {
+      "id": 3,
+      "title": "gg ez",
+      "author": "Dolor"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "title": "Bad application",
+      "author": "SomeoneElse"
+    },
+    {
+      "id": 2,
+      "title": "I don't know how to use this",
+      "author": "Guru"
+    },
+    {
+      "id": 3,
+      "title": "Good application :P",
+      "author": "Hyun"
+    }
+  ],
+  "users": [
+    {
+      "name": "Mark",
+      "age": "18",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Alan",
+      "age": "32"
+    },
+    {
+      "id": 3,
+      "name": "Sam",
+      "age": 40
+    },
+    {
+      "id": 5,
+      "name": "Amber Garcia",
+      "age": 50
+    }
+  ],
+  "design_course": [
+    {
+      "id": 1,
+      "title": "Graphic design",
+      "author": "Contended"
+    },
+    {
+      "id": 2,
+      "title": "Web design",
+      "author": "Video Smile"
+    },
+    {
+      "id": 3,
+      "title": "Motion design",
+      "author": "Contended"
+    }
+  ],
+  "studio": [
+    {
+      "id": 1,
+      "name": "Santa Monica",
+      "founder": "Allan Becker"
+    },
+    {
+      "id": 2,
+      "name": "Loo.ch",
+      "founder": "Evgeny Luchinin"
+    },
+    {
+      "id": 3,
+      "name": "ITHub",
+      "founder": "Mikhail Sumbatyan"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
